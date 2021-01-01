@@ -1,0 +1,5 @@
+/Volumes/ArcherC18K561.J42dOS/usr/libexec/ftp-proxy:
+	/System/Library/PrivateFrameworks/Netrb.framework/Netrb (compatibility version 1.0.0, current version 1.0.0)
+	/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation (compatibility version 150.0.0, current version 1770.255.0)
+	/System/Library/PrivateFrameworks/PacketFilter.framework/PacketFilter (compatibility version 1.0.0, current version 1.0.0)
+	/usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1292.60.1)
